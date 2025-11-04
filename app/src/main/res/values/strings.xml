@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Invoice Generator</string>
+    
+    <!-- Login Screen -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email_mobile_label">Email / Mobile Number</string>
+    <string name="email_mobile_hint">Enter your email or mobile number</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="create_new_account">Create New Account</string>
+    
+    <!-- Dashboard Screen -->
+    <string name="invoice_generator">Invoice Generator</string>
+    <string name="quick_access">Quick Access</string>
+    <string name="create_invoice">Create Invoice</string>
+    <string name="generate_eway_bill">Generate E-Way Bill</string>
+    <string name="create_quotation">Create Quotation</string>
+    <string name="payment_receipt">Payment Receipt</string>
+    <string name="manage_customers">Manage Customers</string>
+    <string name="manage_products">Manage Products</string>
+    <string name="reports">Reports</string>
+    <string name="business_profile">Business Profile</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_invoices">Invoices</string>
+    <string name="nav_payments">Payments</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Common -->
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="back">Back</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_email_required">Email or mobile number is required</string>
+    <string name="error_email_invalid">Please enter a valid email or mobile number</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+</resources>
+
